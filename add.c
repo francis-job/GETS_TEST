@@ -3,5 +3,5 @@
 int main(){
 int a,b,c;
 
-printf()
+printf("The sum is")
 }
